@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/danielpm1982/springboot2-blog.svg?style=svg)](https://circleci.com/gh/danielpm1982/springboot2-blog)
+
 # springboot2-blog
 This is a Blog application developed with Spring Boot 2
 
@@ -5,7 +7,7 @@ This is a Blog application developed with Spring Boot 2
 (see Copyright© License at the end of this text).
 
 [**Description of this repository**]<br>
-This is a Blog application developed with Spring Boot 2, along with Spring 5 Core, Spring 5 MVC, Spring 5 Data JPA, H2-DB, Project Lombok, JUnit 5, Mockito, Thymeleaf, HTML 5 and CSS. Its purpose is to demonstrate how to leverage the most from the inversion of control and dependency injection of Spring 5 / Spring Boot 2 in an MVC web application, while taking advantage of the auto-generated repositories of Spring Data JPA and also eliminating boilerplate code with Project Lombok, ultimately aiming to create the most maintainable, easily extensible and cleanest code as possible. All tests are created with Junit 5 and Mockito testing frameworks. Following Devops CI/CD and Agile best pratices, continuous integration (CI) and continuous testing are done through Github / CircleCI integration, at every new commit. This application is not deployed anywhere yet, so continuous delivery (CD) is not adopted at this moment. For more info, read the project comments at each class, starting from the @SpringBootApplication main class. And, for syntax details, refer to the following documentation:<br><br>
+This is a Blog application developed with Spring Boot 2, along with Spring 5 Core, Spring 5 MVC, Spring 5 Data JPA, H2-DB, Project Lombok, JUnit 5, Mockito, Thymeleaf, HTML 5 and CSS. Its purpose is to demonstrate how to leverage the most from the inversion of control and dependency injection of Spring 5 / Spring Boot 2 in an MVC web application, while taking advantage of the auto-generated repositories of Spring Data JPA and also eliminating boilerplate code with Project Lombok, ultimately aiming to create the most maintainable, easily extensible and cleanest code as possible. All tests are created with Junit 5 and Mockito testing frameworks. Following Devops CI/CD and Agile best pratices, continuous integration (CI) and continuous testing are done through Github / CircleCI integration, at every new commit: see the status badge from CircleCI at the beginning of this text. This application is not deployed anywhere yet, so continuous delivery (CD) is not adopted at this moment. For more info, read the project comments at each class, starting from the @SpringBootApplication main class. And, for syntax details, refer to the following documentation:<br><br>
 SPRING BOOT 2: <br> https://docs.spring.io/spring-boot/docs/2.3.0.BUILD-SNAPSHOT/reference/html/getting-started.html <br>
 SPRING 5: <br> https://docs.spring.io/spring/docs/5.2.5.BUILD-SNAPSHOT/spring-framework-reference <br>
 HIBERNATE / JPA: <br> https://hibernate.org/orm/documentation/5.4 <br>
